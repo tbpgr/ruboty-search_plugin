@@ -2,6 +2,8 @@
 
 An Ruboty Handler + Actions to output ruboty plugin search result.
 
+[![Gem Version](https://badge.fury.io/rb/ruboty-search_plugin.svg)](http://badge.fury.io/rb/ruboty-search_plugin)
+
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
 ## Installation
