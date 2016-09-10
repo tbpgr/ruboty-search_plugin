@@ -1,6 +1,6 @@
 # Ruboty::SearchPlugin
 
-An Ruboty Handler + Actions to output ruboty plugin search result.
+A Ruboty Handler + Actions to output ruboty plugin search result.
 
 [![Gem Version](https://badge.fury.io/rb/ruboty-search_plugin.svg)](http://badge.fury.io/rb/ruboty-search_plugin)
 
